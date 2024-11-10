@@ -1,0 +1,33 @@
+body{background-image: url(https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+background-repeat: no-repeat;
+background-size:cover;
+margin-left:80px;
+margin-top: 200px;
+margin-bottom: 200px;
+}
+h1{text-transform: uppercase;
+line-height:2px;
+color:white}
+h2{text-transform: capitalize;
+color: white;
+}
+p{color: white;
+line-height: 10px;
+}
+
+.a{line-height: 1px;
+color: white;
+border-radius: 19px;
+height: 27px;
+width: 86px;
+margin-top: 10px;
+margin-left: 10px;
+}
+.b{color: white;
+    background-color: blue;
+    width:100px;
+    height: 30px;
+    margin-left: 20px;
+
+}
+    
